@@ -1,0 +1,1 @@
+students = ("Blue" "Red" "Green" "Black" "White")
